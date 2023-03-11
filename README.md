@@ -20,6 +20,7 @@
 #### Tecnologias e Ferramentas
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![tkinter](https://user-images.githubusercontent.com/92939227/224504811-6b934630-1b29-4a24-b571-474da08ba7f7.jpeg)
 
 [Voltar ao Início](#sucatas)
 
