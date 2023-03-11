@@ -42,9 +42,8 @@
 - <p>Abrir a pasta Projeto.</p>
 - <p>Pressionando a tecla SHIFT do teclado clicando com o botão do lado direito do rato e escolher a opção Abrir janela do PowerShell aqui.</p>
 - <p>Executar o comando </p>
----powershell
-python Menu_Registro.py
----
+`python Menu_Registro.py`
+
 ---
 
 ## Autores
