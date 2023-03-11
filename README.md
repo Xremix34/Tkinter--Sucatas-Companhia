@@ -38,8 +38,8 @@
 
 #### Instalação
 - <p>Copiar a pasta para o diretório desejado no computador.</p>
-```git clone https://github.com/Xremix34/Java-Projeto-Bilheteira-de-Circo.git```
-- <p>Abrir o netbeans.</p>
+```git clone https://github.com/Xremix34/Tkinter--Sucatas-Companhia.git```
+- <p>Abrir a pasta .</p>
 - <p>Ir em File -> Open Project e carregar a pasta Projeto.</p>
 ---
 
