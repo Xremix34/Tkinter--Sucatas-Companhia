@@ -27,7 +27,6 @@
 
 ## Requisitos
 - Python(https://www.python.org/) 
-- MySql Workbench(https://www.mysql.com/products/workbench/)
 ---
 
 ## Como utilizar
