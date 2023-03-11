@@ -1,7 +1,4 @@
-# Tkinter- Projeto Sucatas e Companhia
- Pequeno projeto desenvolvido em tkinter do curso Jovem + Digital Python
-
-# <p align="center">Bilheteira circo</p>
+# <p align="center">Sucatas e Companhia</p>
 
 ![sucata](https://user-images.githubusercontent.com/92939227/224504155-a2a1c799-f96c-477f-9cb4-e5cec8943995.png)
 
