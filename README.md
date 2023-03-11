@@ -15,7 +15,7 @@
 
 ## Descrição
 
-> Pequeno projeto desenvolvido no curso Jovem + Digital Python em modo gráfico utilizando o Tkinter e a integração ao MySql Workbench que permite adicionar, atualizar, remover, consultar através de um id para uma empresa Sucatas e Companhia fictícia. 
+> Pequeno projeto desenvolvido no curso Jovem + Digital Python em modo gráfico utilizando o Tkinter que permite adicionar, atualizar, remover, consultar através de um id para uma empresa Sucatas e Companhia fictícia. 
  
 #### Tecnologias e Ferramentas
 
