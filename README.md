@@ -39,8 +39,12 @@
 #### Instalação
 - <p>Copiar a pasta para o diretório desejado no computador.</p>
 ```git clone https://github.com/Xremix34/Tkinter--Sucatas-Companhia.git```
-- <p>Abrir a pasta .</p>
-- <p>Ir em File -> Open Project e carregar a pasta Projeto.</p>
+- <p>Abrir a pasta Projeto.</p>
+- <p>Pressionando a tecla SHIFT do teclado clicando com o botão do lado direito do rato e escolher a opção Abrir janela do PowerShell aqui.</p>
+- <p>Executar o comando </p>
+---powershell
+python Menu_Registro.py
+---
 ---
 
 ## Autores
