@@ -3,7 +3,7 @@
 
 # <p align="center">Bilheteira circo</p>
 
-![bilheteria](https://user-images.githubusercontent.com/92939227/224502468-cec38fc0-2e04-4e3c-8adb-b2dafa67158a.png)
+![sucata](https://user-images.githubusercontent.com/92939227/224504155-a2a1c799-f96c-477f-9cb4-e5cec8943995.png)
 
 ---
 
